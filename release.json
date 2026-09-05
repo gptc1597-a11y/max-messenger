@@ -2,9 +2,9 @@
   "versionCode": 202,
   "versionName": "2.0.2",
   "releaseDate": "05.09.2026",
-  "changelog": "Связь вне одной сети (TLS 8883), защита от дубликатов контактов и моментальное сканирование QR",
+  "changelog": "Мгновенное сканирование QR и создание чата",
   "downloadUrl": "https://raw.githubusercontent.com/aistudio-max/max-messenger/main/max-2.0.apk",
   "fileSize": "24.7 MB",
-  "sha256": "b8ec9eb077218fbaf039336d6df62a247fec65c3c3dc1185d82c0a2abdb850cb",
+  "sha256": "adedc85a3215be107ed9377e058f2c153b0b990999f9017cbc800af8184c3a30",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

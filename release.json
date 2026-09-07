@@ -1,10 +1,10 @@
 {
-  "versionCode": 211,
-  "versionName": "2.1.1",
+  "versionCode": 212,
+  "versionName": "2.1.2",
   "releaseDate": "07.09.2026",
-  "changelog": "Критическое исправление: устранена ошибка переполнения памяти и CursorWindow при отправке больших видео (автоматическая санация базы данных на старте приложения, предотвращение крашей на запуске, потоковая отправка видео без перегрузки памяти, ограничение до 15 МБ).",
+  "changelog": "Добавлены системные push-уведомления с вибрацией и быстрым открытием чата, а также создание и сквозное E2EE шифрование групповых чатов",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
-  "fileSize": "25.2 MB",
-  "sha256": "2dded31b632d0af2e415bc8ee9798e7ab3c7c8227a6ebdd1a900238feb8558fa",
+  "fileSize": "24.8 MB",
+  "sha256": "d8be776727e36921b67b62cdc38ba01eefdacd3e35983c0dd786f3082cacd383",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

@@ -1,10 +1,10 @@
 {
-  "versionCode": 213,
-  "versionName": "2.1.3",
+  "versionCode": 214,
+  "versionName": "2.1.4",
   "releaseDate": "08.09.2026",
-  "changelog": "Исправление доставки видео (до 15 МБ), звук голосовых сообщений через USAGE_MEDIA, стабильная работа через мобильный интернет РФ (Mobile-to-Mobile)",
+  "changelog": "Ультра-быстрая и стабильная доставка сообщений: SmartDNS с кэшем 0 мс и аварийными IP, прогрев HTTP/2 сокетов (~30-60 мс), атомарная очередь с микро-повтором (200 мс), мгновенный хэндовер сетей через NetworkCallback",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
   "fileSize": "24.8 MB",
-  "sha256": "4256f228167444a839f8b39acdc8a5429acd5dec6c060f7e8e31e6a6c5c336e8",
+  "sha256": "cb8a2d8ea4ced25b5e020c4305c52f684dbbca193ccb2512cb9f59852dcab787",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

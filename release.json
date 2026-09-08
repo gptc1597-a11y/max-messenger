@@ -1,10 +1,16 @@
 {
-  "versionCode": 214,
-  "versionName": "2.1.4",
+  "versionCode": 215,
+  "versionName": "2.1.5",
   "releaseDate": "08.09.2026",
-  "changelog": "Ультра-быстрая и стабильная доставка сообщений: SmartDNS с кэшем 0 мс и аварийными IP, прогрев HTTP/2 сокетов (~30-60 мс), атомарная очередь с микро-повтором (200 мс), мгновенный хэндовер сетей через NetworkCallback",
-  "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
+  "changelog": "Отказоустойчивое многоканальное OTA-обновление (CDN jsDelivr, GitHub Releases, локальная сеть), мгновенное обнаружение новых версий и стабильное скачивание APK в РФ",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.5/max-2.0.apk",
+  "mirrors": [
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.5/max-2.0.apk",
+    "https://api.github.com/repos/gptc1597-a11y/max-messenger/contents/max-2.0.apk",
+    "http://10.117.59.210:8080/max-2.0.apk",
+    "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
+  ],
   "fileSize": "24.8 MB",
-  "sha256": "cb8a2d8ea4ced25b5e020c4305c52f684dbbca193ccb2512cb9f59852dcab787",
+  "sha256": "7b4c76f1d252f3bd6c0b9e9d81837e5275cc56e8522c8b24ce3bb8db794e9cae",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

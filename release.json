@@ -1,16 +1,16 @@
 {
-  "versionCode": 218,
-  "versionName": "2.1.8",
-  "releaseDate": "09.09.2026",
-  "changelog": "Поддержка видеосообщений (кружков как в TG), исчезающих сообщений с автоудалением с диска, синхронизация таймеров и отправка медиа в группах",
-  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.8/max-2.0.apk",
+  "versionCode": 219,
+  "versionName": "2.1.9",
+  "releaseDate": "10.09.2026",
+  "changelog": "Удаление сообщений (у себя и у всех), редактирование текста, мульти-устройства и перенос аккаунта (ПК+телефон), исправление клавиатуры и чистый Edge-to-Edge",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.9/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.8/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.1.9/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
-    "http://192.168.1.100:8080/max-2.0.apk",
+    "http://192.168.1.20:8080/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
-  "fileSize": "24.9 MB",
-  "sha256": "9a942ac58040ec593da3fe7f6deaa19bb811284e85f2a7c0d6b64bc119a37cbb",
+  "fileSize": "25.0 MB",
+  "sha256": "fff7ec496eb7049026463777294ab20531d6b6d8f0fe5fe79a9f945dc1151217",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

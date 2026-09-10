@@ -1,16 +1,16 @@
 {
-  "versionCode": 220,
-  "versionName": "2.2.0",
+  "versionCode": 230,
+  "versionName": "2.3.0",
   "releaseDate": "10.09.2026",
-  "changelog": "Кружки без полос (center-crop), устранение зеленого шума в видео, удаление и редактирование у собеседника, анимация отправки Telegram-style и ускорение связи",
-  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.2.0/max-2.0.apk",
+  "changelog": "Новая адаптивная иконка (призрак), закрепление чатов, пересылка сообщений и настройки приватности пересылки",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.3.0/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.2.0/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.3.0/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "http://192.168.1.100:8080/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "25.0 MB",
-  "sha256": "837a7adfc7892703bfbaa0f55f526eb0020eb8f4e03e1b9ceb7685b9cd8cccc9",
+  "sha256": "e09da64d5411562d63dbff908c67ff1fa65c0beaf25b19dc2f5284524dbc99fa",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

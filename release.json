@@ -1,15 +1,15 @@
 {
-  "versionCode": 250,
-  "versionName": "2.5.0",
+  "versionCode": 260,
+  "versionName": "2.6.0",
   "releaseDate": "11.09.2026",
-  "changelog": "Кастомизация аватарки профиля (выбор фото из галереи, 9 цветов палитры, 9 крипто-иконок), гармоничная увеличенная кнопка «Новый чат», профильная карточка в настройках",
-  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.5.0/max-2.0.apk",
+  "changelog": "Динамический размер сообщений под контент, улучшенная читаемость и контрастность в светлой теме и Material You, скрыты технические имена файлов под медиа, рабочий онлайн-статус собеседника",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.0/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.5.0/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.0/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "17.6 MB",
-  "sha256": "daf23e6e2232696dc8077a6eae4a95e83f3f462cf427e8a793edf18d532629a1",
+  "sha256": "6f695e4773e90c0bb3cac549f831c782987dd89c378d842482e3e78ef3b15618",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

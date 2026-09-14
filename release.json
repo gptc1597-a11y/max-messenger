@@ -5,9 +5,9 @@
   "changelog": "Комплексное обновление стабильности и производительности: включен режим SQLite WAL для одновременного чтения и записи, добавлены составные индексы Room для мгновенной загрузки чатов, переписан реактивный поток ChatPreviews с O(1) поиском (устранение GC-фризов), устранена утечка корутин при переходе между диалогами, внедрен CoroutineExceptionHandler и кэширование форматтеров.",
   "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.4/max-2.0.apk",
   "mirrors": [
+    "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
     "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.4/max-2.0.apk",
-    "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
-    "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
+    "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk"
   ],
   "fileSize": "17.6 MB",
   "sha256": "4c59c24aa86c619fb134ebbd4d9e27fab274d4e2fb9ecba37fa8eeb467bf2b94",

@@ -1,16 +1,15 @@
 {
-  "versionCode": 261,
-  "versionName": "2.6.1",
-  "releaseDate": "11.09.2026",
-  "changelog": "Контекстная панель действий по зажатию чата (закрепление, очистка переписки, удаление), отображение и мгновенная E2EE-синхронизация аватарок (фото, 9 крипто-иконок и палитра), удалены звонки из меню трёх точек",
-  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.1/max-2.0.apk",
+  "versionCode": 262,
+  "versionName": "2.6.2",
+  "releaseDate": "14.09.2026",
+  "changelog": "Глубокая оптимизация энергопотребления и расхода батареи: устранение холостых циклов процессора, адаптивные интервалы сетевого опроса (Foreground/Background), оптимизация WebSocket keepalive и таймеров базы данных SQLite без потери скорости доставки сообщений",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.2/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.1/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.2/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "17.6 MB",
-  "sha256": "b0acd464c1c5cc7e334dd3732678fc89a1cc4df26f22386007d3321bd2edae53",
+  "sha256": "770287e31a66e5844db46bd95da9c136c53a3daeb336be81f4944dfa541d1b73",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }
-

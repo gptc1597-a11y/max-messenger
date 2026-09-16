@@ -1,15 +1,15 @@
 {
-  "versionCode": 265,
-  "versionName": "2.6.5",
+  "versionCode": 266,
+  "versionName": "2.6.6",
   "releaseDate": "16.09.2026",
-  "changelog": "Редизайн меню вложений в стиле Material 3 / Serene Expressive (удалены дубликаты голоса и видео-кружка), аппаратное скругление видоискателя CameraX PreviewView (TextureView COMPATIBLE), устранение артефактов и черных полос при записи и отправке видео-кружков (матричный Center-Crop с коррекцией ориентации сенсора).",
-  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.5/max-2.0.apk",
+  "changelog": "Избирательная защита от скриншотов и записи экрана: динамический FLAG_SECURE и скрытие сторонних оверлеев (API 31+) только в защищенных диалогах, свобода создания фото/видео вне защищенных чатов, индивидуальный переключатель защиты в меню диалога, детектирование попыток снимков экрана (API 34+). Глубокий аудит Zero-Cloud и приватности: проверка целостности мастер-сертификата, выявление шпионских оверлеев и accessibility-скраперов, блокировка отладчиков и root-эскалации с мгновенным перезапуском проверки по кнопке.",
+  "downloadUrl": "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.6/max-2.0.apk",
   "mirrors": [
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.5/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.6/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk"
   ],
   "fileSize": "17.6 MB",
-  "sha256": "8cfabc681414f398efbcdc32f4055944c27aff98cd06fe8fa6107b7542121535",
+  "sha256": "4302628b3f192484c4e220b4d568272235293f748680047ee094b1574a6b81b1",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

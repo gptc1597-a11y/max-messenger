@@ -1,15 +1,15 @@
 {
-  "versionCode": 267,
-  "versionName": "2.6.7",
+  "versionCode": 268,
+  "versionName": "2.6.8",
   "releaseDate": "17.09.2026",
-  "changelog": "Исправление ошибки OTA-обновления: устранен ложный отказ валидации версии при установке обновлений (устранена ошибка «Ошибка загрузки или проверки файла»), добавлена система Smart DNS с аварийными IP-адресами серверов загрузки для стабильной работы при блокировках и сбоях системного DNS, расширены таймауты сокетов и буферизация до 64 КБ, прямая загрузка через raw.githubusercontent.com без промежуточных редиректов и многоуровневая валидация подписи мастер-сертификата разработчика.",
+  "changelog": "Критическое исправление OTA-обновления: устранен ложный сбой проверки версии при обновлении из приложения (ошибка «Ошибка загрузки или проверки файла»), добавлена система Smart DNS с аварийными IP-адресами серверов загрузки для стабильной работы при блокировках и сбоях системного DNS, расширены таймауты сокетов и буферизация до 64 КБ, прямая загрузка через raw.githubusercontent.com и Cloudflare CDN без промежуточных редиректов, многоуровневая валидация цифровой подписи мастер-сертификата разработчика.",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.7/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.8/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "17.6 MB",
-  "sha256": "ff13985a84db2b69cf64bc6611454b9f2d13242dc77722c6edfdfb4228f5b364",
+  "sha256": "f3752ec2e72e4ef818d356ecd4bd62de05df16adf2db3a9065756091a7853e54",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }

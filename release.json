@@ -1,16 +1,16 @@
 {
-  "versionCode": 273,
-  "versionName": "2.7.1",
+  "versionCode": 274,
+  "versionName": "2.7.2",
   "releaseDate": "20.09.2026",
-  "changelog": "Масштабный редизайн элементов управления: кнопки меню вложений увеличены до 74dp и приведены к единому стилю в соответствии с темой устройства (Material You); кнопки сканера QR-кодов ('Из фото' и 'Из буфера') подняты высоко над системной белой полоской навигации и оформлены в цветовой палитре приложения; элементы управления записью видеосообщений-кружков (кнопка записи 86dp, кнопки отмены и смены камеры, индикатор длительности) подняты на безопасную высоту для удобного хвата без перекрытия системным баром.",
+  "changelog": "Убрана анимация лазерной полосы при сканировании QR-кодов. Оставлены только чистые угловые рамки видоискателя для точного наведения камеры.",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.7.1/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.7.2/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "18.0 MB",
-  "sha256": "f028935377c62d2bc113a5562bc9c8458bdf6ac4283cce686e86f70ccb183bf8",
+  "sha256": "1f21f4bc5a4e84baf3cdabc8244d23965c9ad97d6c234bfde21a68a1c08a1e51",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }
 

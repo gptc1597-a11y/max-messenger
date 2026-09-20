@@ -1,15 +1,16 @@
 {
-  "versionCode": 271,
-  "versionName": "2.6.9",
+  "versionCode": 272,
+  "versionName": "2.7.0",
   "releaseDate": "20.09.2026",
-  "changelog": "Кружочки (видеосообщения) теперь отображаются строго вертикально и прямо без поворота на бок. Полный редизайн шторки вложений по кнопке «+»: кнопки увеличены до удобного крупного размера (68dp) с выразительными акцентными цветами и мягкими скруглениями; убран лишний заголовок шифрования и замочек — теперь аккуратный заголовок «Вложения и файлы».",
+  "changelog": "Глобальный редизайн сканера QR-кодов и записи видео-сообщений (кружков): просторный полноэкранный сканер с неоновой подсветкой, фонариком, переключением камер и удобными кнопками галереи/буфера; полностью обновленный интерфейс записи видео-сообщений на весь экран с крупной кнопкой записи 86dp, отдельной кнопкой быстрой отмены (корзина), таймером и плавной анимацией кольца записи.",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.6.9/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.7.0/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "18.0 MB",
-  "sha256": "ccc4f7761753ead5219b386e4d63085bede79160a7e058c82d17054f926efb30",
+  "sha256": "636ead7b4a21abaa90961f6f21d1ceb84d6ba5c082f5a7876556102447ef1082",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }
+

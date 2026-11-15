@@ -1,15 +1,15 @@
 {
-  "versionCode": 282,
-  "versionName": "2.8.2",
+  "versionCode": 283,
+  "versionName": "2.8.3",
   "releaseDate": "15.11.2026",
-  "changelog": "Полный редизайн интерфейса Cyber-Glass (v2.8.2): модернизированный плавающий док навигации, карточки диалогов с Pulse Presence, голографический криптопаспорт Bento и точная OTA-верификация сборки.",
+  "changelog": "Полный редизайн интерфейса Cyber-Glass (v2.8.3): люминесцентные градиентные бабблы, 32-полосный аудио-вейвформ, голографический Bento-паспорт, модернизированный плавающий док и точная OTA-верификация сборки.",
   "downloadUrl": "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk",
   "mirrors": [
-    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.8.2/max-2.0.apk",
+    "https://github.com/gptc1597-a11y/max-messenger/releases/download/v2.8.3/max-2.0.apk",
     "https://cdn.jsdelivr.net/gh/gptc1597-a11y/max-messenger@main/max-2.0.apk",
     "https://raw.githubusercontent.com/gptc1597-a11y/max-messenger/main/max-2.0.apk"
   ],
   "fileSize": "25.3 MB",
-  "sha256": "5d3af2b6b4db1901c937aac53af6f167564506be91896554f863eecbaca38ee2",
+  "sha256": "e847ab9a07d4d42a170259276b5843215a6a8ccaa5901a4e5f22490e6b74c972",
   "developerCertSha256": "D3:BD:B1:5D:78:84:1A:27:10:86:8E:DD:CD:CB:77:E1:18:16:53:32:BD:C5:B2:2F:5C:6D:45:C4:35:5E:21:B9"
 }
